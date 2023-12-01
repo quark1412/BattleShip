@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.Screen.resources
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.Start.resources
+C:\Users\ASUS\Desktop\Visual Programming\Practice\BattleShip\obj\Debug\BattleShip.GameOver.resources
